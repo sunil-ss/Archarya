@@ -1,0 +1,18 @@
+**Project Overview:**
+
+As I mentioned early it's a retail domain, I am a team member responsible for handling scripts as part of regression testing. I maintain test suites and track defects using Jira to ensure timely and efficient issue resolution.
+
+I worked as a Automation tester for Blue Yonder Order Management Systems, utilized by Sunbelt Rentals. This role provided me with significant exposure to supply chain management systems and the critical role of order management within them. I gained a comprehensive understanding of each phase of the order life cycle in a rental context, from order placement to product return.
+
+In my daily activities, I worked extensively with RentalMan, a legacy rental equipment software by Wynne Systems. I also learned about the integration layers such as MuleSoft, Akeneo PIM (Product Information Management System), and Salesforce CRM software, as well as the architecture of Document Management Systems (DMS).
+
+I developed insights into the sourcing algorithms used to identify the best warehouse to fulfill customer orders. Once an order is placed, I understood how it is processed by the Order Management System (OMS) and subsequently sent to the Transportation Management System (TMS) for freight planning. Additionally, I acquired knowledge about VDOS, a vehicle dispatch optimization system.
+
+In my previous role, 
+* TC's executing in Smoke, regression.
+I went beyond just writing test cases based on given requirements. I took the initiative to understand the business, which helped me ensure the highest quality of the product.
+
+Challenges faced:
+* Re-configuration of Locators
+* Synchronization issue
+* Dailogs in between
