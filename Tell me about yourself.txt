@@ -1,8 +1,1 @@
-Client:
-Hi, I'm Sunil Kumar from Bellary, Karnataka. 
-Coming to my previous project, I been part of retail domain as a Quality Engineer. Initially, I worked in manual testing, but later transitioned to automation testing as per client requirements. I have experience with various systems, including Salesforce, Blue Yonder, and utilized by Selenium WebDriver with the TestNG framework.
-
-Company:
-Hi, I'm Sunil Kumar from Bellary, Karnataka.
-Currently working as a Automation engineer in TCS(Tata Consulting Services)
-Journey in TCS, I been part of retail project as a Quality Engineer. Initially, I worked in manual testing, but later transitioned to automation testing as per client requirements. (I have experience with various systems, including Salesforce, Blue Yonder, and utilized by Selenium WebDriver with the TestNG framework.
+By bye
